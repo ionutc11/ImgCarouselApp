@@ -1,3 +1,5 @@
+#Image carousel application, that do not use any external library
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

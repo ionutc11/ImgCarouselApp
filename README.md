@@ -1,4 +1,4 @@
-#Image carousel application, that do not use any external library
+# Image carousel application, that do not use any external library
 
 # React + TypeScript + Vite
 
